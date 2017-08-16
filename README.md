@@ -14,6 +14,7 @@
 * [BASIC](#BASIC)
 * [EASY](#EASY)
 * [MEDIUM](#MEDIUM)
+* [HARD](#HARD)
 
 # SCHOOL
 # BASIC
