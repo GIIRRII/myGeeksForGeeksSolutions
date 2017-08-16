@@ -1,0 +1,4 @@
+# BASIC
+|          Problem                                                                                         |                                                         Solution                                                                                                         |   Language         |
+|:--------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|-------------------:|
+|[Armstrong Numbers](http://practice.geeksforgeeks.org/problems/armstrong-numbers/0)                       |[solution.c](https://github.com/GIIRRII/myGeeksForGeeksSolutions/blob/master/BASIC/Armstrong%20Numbers/solution.c)                                                        |C                   |
