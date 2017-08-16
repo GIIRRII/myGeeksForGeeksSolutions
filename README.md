@@ -1,7 +1,11 @@
-# mygeeksForGeeksSolutins
+# myGeeksForGeeksSolutions
 some of the solutions of geeks for geeks 
 
-## School
+## SCHOOL
+## BASIC
+## EASY
+## MEDIUM
+## HARD
 
 
 
