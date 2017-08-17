@@ -10,11 +10,11 @@
 # myGeeksForGeeksSolutions
 
 
-* [SCHOOL](#SCHOOL)
-* [BASIC](#BASIC)
-* [EASY](#EASY)
-* [MEDIUM](#MEDIUM)
-* [HARD](#HARD)
+* [SCHOOL](#school)
+* [BASIC](#basic)
+* [EASY](#easy)
+* [MEDIUM](#medium)
+* [HARD](#hard)
 
 # SCHOOL
 
